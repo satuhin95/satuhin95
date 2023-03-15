@@ -29,6 +29,6 @@ Skills:  HTML / CSS/Php / Laravel/ MySql/Javascript/React/Redux
 
 ![Profile views](https://gpvc.arturio.dev/satuhin95)  
 
-Proud member of [<img src='https://i.etsystatic.com/23822999/r/il/07fb32/2483284268/il_fullxfull.2483284268_c9m9.jpg' alt='github' height='80'>]
+Proud member of <img src='https://i.etsystatic.com/23822999/r/il/07fb32/2483284268/il_fullxfull.2483284268_c9m9.jpg' alt='github' height='100'>
 
 
