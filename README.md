@@ -1,7 +1,7 @@
 ### Hi there 👋, Md Saifuddin
 #### I am Web Design And Developer
 
-Learning PHP and JavaScript related technologies is always interesting to me. Experienced in building PHP projects with Core PHP , laravel with Vue js, React js, JavaScript, jQuery,
+Learning PHP and JavaScript related technologies is always interesting to me. Experienced in building PHP projects with Core PHP , laravel with  React js, JavaScript, jQuery,
 
 Skills:  HTML / CSS/Php / Laravel/ MySql/Javascript/React/Redux
 
