@@ -5,7 +5,7 @@ Learning PHP and JavaScript related technologies is always interesting to me. Ex
 
 Skills:  HTML / CSS/Php / Laravel/ MySql/Javascript/React/Redux
 
-- 🔭 I’m currently working on Purple Patch 
+- 🔭 I’m currently working on Infostation 
 - 🌱 I’m currently learning Docker  
 - 👯 I’m looking to collaborate on github 
 
