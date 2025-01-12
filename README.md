@@ -3,7 +3,7 @@
 
 Learning PHP and JavaScript related technologies is always interesting to me. Experienced in building PHP projects with Core PHP , laravel with  React js, JavaScript, jQuery,
 
-Skills:  HTML / CSS/Php / Laravel/ MySql/Javascript/React/Redux
+Skills:  HTML / CSS/Php / Laravel/Codeigniter/ MySql/Javascript/React/Redux
 
 - 🔭 I’m currently working on Infostation 
 - 🌱 I’m currently learning Docker  
